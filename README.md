@@ -1,2 +1,2 @@
-# pells
-A pells solver
+# Pell
+A pell's equation solver
